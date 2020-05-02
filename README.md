@@ -59,10 +59,10 @@ If you have a hardware keyboard connected to your iPad, you can use it to contro
 * Left Arrow: moves the active marker to the previous tile
 * Right Arrow: moves the active marker to the next tile (Same as tapping "Next")
 * "+": adds a new NPC, sames as tapping "+"
-* Cmd-E: edit the currently active tile. Sames as tapping on it and selecting "Edit"
+* Cmd-E: edit the currently active tile. Same as tapping on it and selecting "Edit"
 * Cmd-R: resets the board for the next encounter. Remove all NPCs, move all PCs to the highest initiative. Same as tapping "Reset" in the popup of the "Next" button
 
-Hold "Command" to show a
+Hold "Command" to show a list of all available shortcuts.
 
 ## Known issues
 
