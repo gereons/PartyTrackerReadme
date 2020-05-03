@@ -10,8 +10,6 @@ The app fully supports:
 * multitasking
 * hardware keyboards
 
-with a much slicker UI.
-
 The following features from InitiativeBoard are not implemented (yet)
 
 * tracking of hitpoints or statuses
@@ -31,6 +29,7 @@ There are 6 controls around the board. Here's what they do:
 #### "+" button (top right)
 
 This adds a new NPC to the board. NPCs are always added at the lowest available initiative.
+To create a new PC, tap on an NPC, choose edit and change the type to PC.
 
 #### Settings (bottom right)
 
@@ -40,9 +39,9 @@ Opens the app settings. Dismiss via "Done" or slide-down.
 
 Moves the "active" marker to the next tile.
 
-### Shuffle (bottom left)
+#### Shuffle (bottom left)
 
-Roll initative of all tiles, just the PCs, or just the NPCs.
+Roll initative for all tiles, just the PCs, or just the NPCs.
 
 #### Tray (top left)
 
@@ -50,7 +49,7 @@ Re-adds inactive tiles to the board. PCs are added at the highest initiative, NP
 
 #### "Campaign" (top center)
 
-Yes, this is the sixth button. Edit the campaign's name here.
+Edit the campaign's name.
 
 ## Keyboard control
 
@@ -68,6 +67,6 @@ Hold "Command" to show a list of all available shortcuts.
 
 * Running multiple campaign is not possible yet. This will definitely be added.
 * Some icons are ugly
-* There is no app icon
-* I'm not really a fan of the name
+* The app icon is the same as InitiativeBoard's
+* I'm not really a fan of the name (and it's unavailable on the App store anyway)
 * The color (or rather, gray-scale) scheme is probably not ideal
