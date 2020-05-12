@@ -17,7 +17,7 @@ The following features from InitiativeBoard are not implemented
 
 ## Major UI changes from InitiativeBoard
 
-The grid now fully adapts to the available screen size. This means that e.g. rotating the device changes the range of available initiative values. Tiles automatically move to the nearest possible new value, and remember their original initiative value (it is also displayed in the uppper right corner).
+The grid now fully adapts to the available screen size. This means that rotating the device changes the range of available initiative values. Tiles automatically move to the nearest possible new value, and remember their original initiative value (it is also displayed in the uppper right corner).
 
 Dragging tiles to the top edge of the screen temporarily removes them from display. Tap the tray icon to re-add them later.
 
@@ -27,7 +27,7 @@ There are 6 controls around the board. Here's what they do:
 
 #### + (top right)
 
-This adds a new NPC to the board. NPCs are always added at the top-right slot, in order to be quickly accessible after adding.
+This adds a new NPC to the board. NPCs are always added in the top-right slot, in order to be quickly accessible after adding.
 To create a new PC, tap on an NPC, choose edit and change the type to PC.
 
 #### Settings (bottom right)
@@ -44,7 +44,7 @@ Roll initative for all tiles, just the PCs, or just the NPCs.
 
 #### Tray (top left)
 
-Re-adds inactive tiles to the board. PCs are added at the highest initiative, NPCs at the lowest.
+Re-adds inactive tiles to the board. Tiles are always added in the top-left slot, in order to be quickly accessible after re-adding.
 
 #### "Campaign" (top center)
 
@@ -56,7 +56,7 @@ If you have a hardware keyboard connected to your iPad, you can use it to contro
 
 * Left Arrow: moves the active marker to the previous tile
 * Right Arrow: moves the active marker to the next tile (Same as tapping "Next")
-* +: adds a new NPC, sames as tapping the + Button
+* +: adds a new NPC, same as tapping the "+" Button
 * ⌘-E: edit the currently active tile. Same as tapping on it and selecting "Edit"
 * ⌘-R: resets the board for the next encounter. Remove all NPCs, move all PCs to the highest initiative. Same as tapping "Reset" in the popup of the "Next" button
 * ⌘-S: cycles through the 3 available status values: normal, ready and delay.
